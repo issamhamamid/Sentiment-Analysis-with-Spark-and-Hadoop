@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.venv
+test.py
+.idea
+fhfh.ipynb
+.ipynb_checkpoints/
+pyvenv.cfg
